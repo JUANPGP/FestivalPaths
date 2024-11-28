@@ -1,0 +1,31 @@
+(2) 2 amarillo
+
+0
+
+2 largo
+
+D largo,  amarillo
+
+D 2 largo
+
+4 naranja
+
+D largo verde, d 3 rojo
+
+D 2 largo azul, 5 amarillo
+
+D 2 largo
+
+4 naranja
+
+2 largo
+
+3 naranja
+
+3 naranja
+
+D 2 largo
+
++++++++++++++++
+
+240 006

@@ -1,0 +1,23 @@
+D 3 azul, 4 nota
+
+6 mcdonalds
+
+D 7 amarillo
+
+9 mcdonalds
+
+2 MasterCard
+
+D 5 amarillo
+
+0
+
+2 Fanta
+
+D 5 amarillo
+
++++++++++++++
+
+142 293
+
+141 458

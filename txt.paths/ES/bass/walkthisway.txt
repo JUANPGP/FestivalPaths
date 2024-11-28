@@ -1,0 +1,21 @@
+D pausa "3/4", 2 naranja
+
+0
+
+3 amarillo pegado
+
+0
+
+---------------------(15)
+
+(2) rojo
+
+D 2 verde c flecha?, amarillo
+
+3 largo amarillo
+
++++++++++++++
+
+77 910
+
+76 777

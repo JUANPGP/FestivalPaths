@@ -1,0 +1,23 @@
+(2) D 3 azul. 2 doble
+
+D pausa "2/3", Doble
+
+D 4 doble
+
+(2) D 3 azul, 4 mcdonalds
+
+D 4 doble
+
+D 2 pausa "+1/0"
+
+4 doble
+
+5 nota?
+
+2 mcdonalds
+
+D pepsis, Sprite
+
+++++++++++++++++++
+
+193 824

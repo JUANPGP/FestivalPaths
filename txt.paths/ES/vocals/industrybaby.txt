@@ -1,0 +1,29 @@
+(2) 0
+
+2 largo amarillo
+
+D 3 largo rojo, 4 verde
+
+D 2 largo naranja
+
+2 largo naranja
+
+2 largo amarillo
+
+cuando empieza rojo-amarillo, 6 rojo
+
+4 amarillo
+
+4 rojo
+
+0
+
+0
+
+2 largo amarillo
+
+++++++++++++++++++++
+
+201 473
+
+199 505

@@ -1,0 +1,13 @@
+D 2 verde
+
+(3) D 3 verde
+
+6 amarillo
+
+Verde
+
+D pausa "1/2"
+
++++++++++++++
+
+118 290
