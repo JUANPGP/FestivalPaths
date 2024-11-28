@@ -1,0 +1,26 @@
+6 rojo
+
+largo Azul
+
+---------------(9)
+
+largo naranja
+
+2 Azul
+
+---------------(9)
+
+largo naranja
+
+3 largo
+
+-----------------(33)
+
+largo Azul
+
+D 3 naranja
+
+D 2 largo rojo
+++++++++++++++++++++
+
+136 856

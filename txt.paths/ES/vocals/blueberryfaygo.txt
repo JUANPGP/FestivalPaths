@@ -1,0 +1,15 @@
+D 6 naranja, verde
+
+D 7 naranja, verde
+
+3 naranja
+
+3 verde
+
+0
+
+++++++++++++++++++
+
+128 730
+
+127 904

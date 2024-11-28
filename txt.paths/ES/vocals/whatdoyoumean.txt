@@ -1,0 +1,21 @@
+D 2 largo verde, 2 Amarillo
+
+(2) 4 rojo
+
+D 2 largo Azul
+
+2 Azul
+
+(2) 0
+
+5 Amarillo
+
+0
+
+nota
+
+3 Azul
+
++++++++++++++++
+
+155 489

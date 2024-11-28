@@ -1,0 +1,25 @@
+D naranjas, 4 roja
+
+0
+
+(3) D largo Azul
+
+(3) largo Azul
+
+2 largo Amarillo
+
+D 3 largo Azul
+
+0
+
+D largo Azul
+
+D 2 largo Azul
+
+0
+
++++++++++++++++++
+
+109 956s
+
+

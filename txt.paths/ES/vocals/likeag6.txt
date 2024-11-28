@@ -1,0 +1,21 @@
+D 3 azul, 2 rojo
+
+3 verde
+
+D 3 largo azul
+
+2 azul
+
+3 rojo
+
+D 3 largo azul
+
+D rojo
+
+(3) largo azul
+
+D verde
+
+++++++++++++++++++++++++
+
+198 674

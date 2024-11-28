@@ -1,0 +1,21 @@
+(2) 2 Doble
+
+Doble
+
+D 2 azul c flecha, 4 amarillo
+
+0
+
+(2) D 2 azul c flecha, naranja
+
+(2) D naranja
+
+(4) 0
+
+D 2 largo rojo
+
+D 2 pepsi largo, verde
+
+++++++++++++++++++
+
+237 468 

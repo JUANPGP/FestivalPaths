@@ -1,0 +1,33 @@
+D 2 Azul
+
+0
+
+D 2 Azul
+
+D Azul
+
+--------------(8)
+
+D 5 Azul
+
+Doble
+
+D 3 Azul
+
+D 3 Azul
+
+--------------(8)
+
+(2) D 3 Azul, 2 mcdonalds
+
+D 3 Azul
+
+D 3 Azul
+
+---------------(8)
+
+2 doble
+
++++++++++++++++++++++
+
+229 104

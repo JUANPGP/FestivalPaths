@@ -1,0 +1,19 @@
+3 largo verde
+
+D 3 Amarillo, 3 largo
+
+D 10 Amarillo, 3 largo
+
+3 largo
+
+0
+
+D 6 Amarillo, 3 largo
+
+3 largo
+
+0
+
+++++++++++++++++++
+
+169 368

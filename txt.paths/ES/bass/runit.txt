@@ -1,0 +1,17 @@
+D 4 Azul
+
+4 largo
+
+0
+
+D 2 Azul, 3 largo
+
+D 2 Azul, 3 largo
+
+3 largo
+
+0
+
++++++++++++++++++
+
+63 390

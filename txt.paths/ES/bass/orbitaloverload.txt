@@ -1,0 +1,15 @@
+D 4 largo naranja
+
+D 2 largo Amarillo
+
+D 3 largo Amarillo
+
+----------------(16)
+
+0
+
+D 4 largo Amarillo
+
++++++++++++++++++++++
+
+58 542

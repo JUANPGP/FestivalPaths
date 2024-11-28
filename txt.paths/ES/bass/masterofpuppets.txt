@@ -1,0 +1,53 @@
+D 3 verde
+
+3 verde
+
+D 2 naranja, 2 verde
+
+rojo
+
+2 rojo
+
+(3) D spam naranja, 3 verde
+
+0
+
+0
+
+verde
+
+-------------------(10)
+
+(4) D 2 largo Amarillo
+
+0
+
+2 spam Azul, 3 Azul
+
+0
+
+0
+
+2 rojo
+
+0
+
+D 2 Azul, 2 rojo
+
+D naranja, 3 rojo
+
+D largo
+
+D 2 pausa "3/0", 3 Azul
+
+3 rojo
+
+0
+
+0
+
+(4) 3 verde
+
++++++++++++++++++++++++++
+
+645 516

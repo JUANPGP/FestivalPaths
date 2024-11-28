@@ -1,0 +1,26 @@
+3 pepsi
+
+3 pepsi
+
+pepsi
+
+pepsi
+
+2 pepsi
+
+4 pepsi
+
+D pausa "2/0"
+
+0
+
+2 pepsi
+
+D pausa "2/0"
+
+0
+
+++++++++++++++++++++++++++
+
+170 784
+

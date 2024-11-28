@@ -1,0 +1,33 @@
+D 2 largo amarillo, rojo
+
+3 largo azul
+
+2 azul
+
+0
+
+---------------(9)
+
+azul
+
+2 largo azul
+
+D largo verde SIN conexion
+
+-------------------(8)
+
+D largo naranja SIN Conexión
+
+---------------(22)
+
+D 2 largo verde SIN conexión
+
+2 largo
+
+D 3 largo verde
+
+2 verde
+
++++++++++++++++++
+
+153 998

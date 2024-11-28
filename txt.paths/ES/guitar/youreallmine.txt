@@ -1,0 +1,31 @@
+D 2 doble largo
+
+0
+
+largo Amarillo
+
+D 2 pepsi largo
+
+---------------(4) 
+
+0
+
+0
+
+D 2 mcdonalds largo, 2 doble
+
+D 2 largo rojo, 2 Azul
+
+D pausa "3/0". pepsi
+
+0
+
+2 mcdonalds
+
+D 2 pepsi largo
+
+(2) D 2 doble largo
+
++++++++++++++++++
+
+178 988

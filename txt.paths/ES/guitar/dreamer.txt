@@ -1,0 +1,21 @@
+D 5 largo rojo
+
+D 2 naranja, 2 Amarillo
+
+0
+
+naranja c flecha
+
+(2) D 4 verde
+
+3 naranja
+
+D 2 naranja, rojo
+
+rojo
+
+0
+
+++++++++++++++++++
+
+121 569

@@ -1,0 +1,19 @@
+0
+
+0
+
+D 11 verde
+
+------------------(16)
+
+(2) D 6 veces que repite
+
+0
+
+D 6 verde, 4 Amarillo
+
+3 verde
+
++++++++++++++++++++
+
+211 680

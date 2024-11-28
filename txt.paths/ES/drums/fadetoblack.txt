@@ -1,0 +1,43 @@
+D 2 mcdonalds, doble
+
+Edge
+
+4 (D 3 mcdonalds, doble)
+
+Edge
+
+0
+
+0
+
+4 (D 2 mcdonalds, doble)
+
+Fanta
+
+Edge
+
+0
+
+------ (Gran mini Descanso)
+
+naranja
+
+0
+
+0
+
+0
+
+(4) Azul
+
+D 2 pepsi
+
+D 2 sprite
+
+D pepsi
+
++++++++++++++++++++++++++
+
+410 832
+
+405 948

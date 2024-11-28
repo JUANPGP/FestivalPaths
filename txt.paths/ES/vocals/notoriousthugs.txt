@@ -1,0 +1,55 @@
+D 2 largo verde, 2 amarilla
+
+2 verde
+
+verde
+
+(2) 4 verde
+
+-----
+
+2 verde
+
+4 rojo
+
+6 rojo
+
+6 Azul
+
+3 Amarillo
+
+-----
+
+D 2 largo naranja, verde
+
+D 2 largo naranja, rojo
+
+4 naranja
+
+-----
+
+rojo
+
+0
+
+4 Amarillo
+
+-----
+
+(2) OV
+
+D 4 naranja, 2 Amarillo
+
+6 Amarillo
+
+-----
+
+2 verde
+
+0
+
+2 verde
+
+++++++++++++++++++
+
+434 268	

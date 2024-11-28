@@ -1,0 +1,23 @@
+2 mastercard largo
+
+2 sprite largo SIN CONEXION
+
+2 doble largo
+
+2 sprite largo
+
+0
+
+0
+
+2 srite largo
+
+0
+
+D pausa "2/1" 
+
+2 pepsi largo
+
+++++++++++++++++++
+
+88 362

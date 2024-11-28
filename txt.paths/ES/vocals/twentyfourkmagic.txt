@@ -1,0 +1,19 @@
+(2) largo
+
+(2) D verde
+
+largo
+
+D 3 naranja, rojo
+
+2 largo naranja
+
+largo Azul
+
+D largo verde, Azul
+
+D largo Azul, Azul
+
++++++++++++++++++++++++
+
+201 631

@@ -1,0 +1,28 @@
+0
+
+D doble, 3 verde?
+
+D doble, 7 (9 rojo)
+
+(Si no agarraste, 0)
+
+D fanta, 3 naranja
+
+(4) 6 pepsi
+
+6 fanta
+
+Amarillo
+
+Amarillo
+
+D 5, 3 rojo
+
+D 4 doble
+
+(2) D 8, rojo
+
+++++++++++++++++
+
+391 824
+

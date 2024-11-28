@@ -1,0 +1,59 @@
+0
+
+Doble
+
+D 2 Azul, 3 Doble
+
+D 4 pepsi, 4 fanta
+
+D 2 pepsi, verde
+
+2 Doble
+
+2 Doble
+
+0
+
+2 nota
+
+0
+
+(3) D 4 pepsi, 2 fanta
+
+2 fanta
+
+-------------(10)
+
+(4) D 2 edge, 2 doble
+
+2 Edge
+
+pepsi
+
+pepsi
+
+2 doble
+
+2 doble
+
+D 4 pepsi, 2 doble
+
+D redouble, doble
+
+4 pepsi
+
+(4) 3 pepsi
+
+2 doble
+
+3 rojo
+
+D edges, 3 rojo
+
+pepsi
+
+2 nota
+
++++++++++++++++++
+
+522 720

@@ -1,0 +1,21 @@
+D largo verde, amarillo
+
+0
+
+D 3 largo Amarillo
+
+rojo
+
+D largo rojo, amarillo
+
+0
+
+D 3 largo amarillo
+
+(3) verde
+
+D 2 largo rojo, 2 Azul
+
+++++++++++++++++++
+
+187 517	

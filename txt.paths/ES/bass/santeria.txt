@@ -1,0 +1,15 @@
+(2) 2 amarillo?
+
+D 2 largo rojo
+
+2 amarillo
+
+D largo naranja, azul
+
+3 largo rojo
+
+3 naranja?
+
+++++++++++++++++++
+
+182 118

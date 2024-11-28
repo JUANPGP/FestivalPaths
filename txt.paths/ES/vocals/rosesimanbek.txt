@@ -1,0 +1,24 @@
+D 2 verde
+
+0
+
+0
+
+D 5 verde
+
+D 2 verde
+
+2 naranja
+
+0
+
+0
+
+D verde
+
+D 2 mini Descanso "1/0"
+
+++++++++++++++++
+
+141 696
+

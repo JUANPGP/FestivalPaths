@@ -1,0 +1,17 @@
+4 verde
+
+D 2 largo Azul, 4 verde
+
+4 rojo
+
+D 2 largo Azul, 3 Azul
+
+Azul
+
+D 2 largo Amarillo
+
+2 naranja
+
++++++++++++++++++
+
+154 264

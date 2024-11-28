@@ -1,0 +1,19 @@
+D 3 largo
+
+D 8 Azul
+
+D 2 largo, 3 Amarillo
+
+0
+
+Azul
+
+D 5 largo
+
+(2) D largo (Ov)
+
+++++++++++++++++++++++
+
+239 664
+
+339 022

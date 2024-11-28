@@ -1,0 +1,19 @@
+3 Azul
+
+largo
+
+D 2 largo naranja, 3 rojo
+
+0
+
+(2) D 5 naranja, D 5 Azul?
+
+(3) D 4 naranja?
+
+largo
+
+largo Azul
+
++++++++++++++++++
+
+202 080

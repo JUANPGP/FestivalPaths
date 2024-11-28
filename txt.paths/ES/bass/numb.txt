@@ -1,0 +1,13 @@
+(3) 2 largo
+
+0
+
+D 2 largo rojo
+
+D largo verde
+
+0
+
+++++++++++++++
+
+42 381

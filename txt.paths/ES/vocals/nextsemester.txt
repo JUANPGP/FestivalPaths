@@ -1,0 +1,31 @@
+2 largo verde
+
+D 2 largo verde
+
+D 2 largo rojo
+
+D 3 largo rojo
+
+2 largo verde
+
+D 2 largo verde
+
+D 2 largo rojo
+
+D 3 largo rojo, 3 rayita
+
+D largo naranja
+
+D 4 largo Azul
+
+Doble largo
+
+D 2 largo naranja
+
+D 2 largo rojo
+
+D largo Amarillo
+
+++++++++++++++++++
+
+172 070

@@ -1,0 +1,24 @@
+2 largo
+
+D 2 largo Azul, 2 verde?
+
+0
+
+3 largo Azul
+
+D 3 largo rojo
+
+3 nota
+
+D 2 verde, 3 rojo
+
+largo Azul
+
+D 2 largo naranja, verde
+
+largo rojo
+
+++++++++++++++++++
+
+161 970
+

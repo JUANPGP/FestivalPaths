@@ -1,0 +1,23 @@
+D 2 Azul, doble (x2)
+
+3 Azul
+
+Doble
+
+D 2 Azul, doble (x2)
+
+Doble (x3)
+
+3 Azul
+
+Doble
+
+D 2 Azul Doble
+
+0
+
++++++++++++++++++++
+
+292 464
+
+287 820

@@ -1,0 +1,29 @@
+3 naranja
+
+2 Azul
+
+2 naranja
+
+3 Azul
+
+(3) D 2 Azul
+
+D 2 verde
+
+D 2 rojo
+
+D 3 verde
+
+2 naranja
+
+Azul
+
+0
+
+azul
+
+++++++++++++++++++
+
+269 427
+
+266 997

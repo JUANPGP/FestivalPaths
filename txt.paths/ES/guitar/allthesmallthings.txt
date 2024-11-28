@@ -1,0 +1,19 @@
+2 doble
+
+0
+
+D azul
+
+0
+
+mastercard
+
+sprite	
+
+mastercard
+	
+++++++++++++++++
+
+215 796 
+
+212 874	

@@ -1,0 +1,15 @@
+(2) largo Azul
+
+(2) 3 Azul
+
+D 3 largo rojo
+
+D largo rojo
+
+2 Azul
+
+++++++++++++++++
+
+50 454
+
+49 991

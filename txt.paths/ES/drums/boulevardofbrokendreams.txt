@@ -1,0 +1,9 @@
+(2) 2 (D 4 mastercard, Doble)
+
+(3) 2 (D 2 mastercard, doble)
+
+(3) Ov
+
+++++++++++++++++++++++
+
+199 440

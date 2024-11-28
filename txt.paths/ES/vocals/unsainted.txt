@@ -1,0 +1,17 @@
+(3) 0
+
+D 2 largo Azul, 3 rayita
+
+D 2 largo naranja
+
+D 3 largo naranja
+
+---------------(5)
+
+D Azul
+
+D 3 largo naranja
+
+++++++++++++++++++++++
+
+155 606

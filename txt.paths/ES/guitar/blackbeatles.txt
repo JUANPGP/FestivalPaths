@@ -1,0 +1,31 @@
+D 6 largo
+
+D 3 Azul
+
+0
+
+D pausa "1/0" (D largo, 2 verde)
+
+D 4 largo
+
+D 6 largo
+
+D 2 Azul (rojo)
+
+D 7 largo
+
+D 3 Azul (2 rojo)
+
+D 4 largo
+
+D 4 Azul
+
+D 4 largo
+
+D Azul (rojo)
+
++++++++++++++++++++
+
+135 732
+
+134 588

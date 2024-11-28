@@ -1,0 +1,23 @@
+D 2 largo verde, 2 Azul
+
+D 7 verde
+
+D 4 naranja?
+
+D 3 verde
+
+D 3 amarillos juntos, 2 rojo
+
+(3) 4 Azul?
+
+D largo
+
+D 4 largo rojo
+
+D 2 largo
+
++++++++++++++++++
+
+239 057
+
+237 939

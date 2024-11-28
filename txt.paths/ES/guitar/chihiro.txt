@@ -1,0 +1,17 @@
+(4) D 2 largo
+
+5 verde
+
+0
+
+(4) D 3 rojo, 7 nota
+
+D naranjas, 9 verde
+
+0
+
+D largo verde
+
+++++++++++++++++++++++
+
+233 332

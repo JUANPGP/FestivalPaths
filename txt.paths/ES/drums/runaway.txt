@@ -1,0 +1,19 @@
+Azul
+
+D Azul
+
+3
+
+5 (Puede ser 2 Azul)
+
+Azul
+
+D 3 Azul, 4
+
+0
+
+1 (Puede ser Azul)
+
++++++++++++++++++
+
+150 768

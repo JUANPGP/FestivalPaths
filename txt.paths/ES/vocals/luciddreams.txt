@@ -1,0 +1,22 @@
+D largo Azul, 3 verde
+
+D 2 rojo
+
+D largo, 3 verde
+
+(3) 0
+
+(2) D 9 Azul, 2 verde
+
+D 2 rojo
+
+D largo
+
+D largo
+
++++++++++++++++++++++
+
+172 988
+
+172 168
+

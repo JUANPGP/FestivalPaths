@@ -1,0 +1,41 @@
+3 mcdonalds
+
+2 Sprite
+
+0
+
+D azul
+
+0
+
+3 Sprite
+
+0
+
+0
+
+D azul
+
+4 Sprite
+
+2 Sprite
+
+Ov
+
+0
+
+0
+
+3 sprite
+
+3 Sprite
+
+2 Sprite
+
+Pepsi
+
+0
+
++++++++++++++++
+
+210 672

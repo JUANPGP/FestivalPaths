@@ -1,0 +1,21 @@
+D 11 verde?
+
+2 largo Azul
+
+9 verde?
+
+2 largo
+
+0
+
+D 2 largo rojo, 3 Amarillo
+
+D 3 naranja
+
+0
+
+2 largo
+
++++++++++++++++++++++
+
+141 906

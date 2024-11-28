@@ -1,0 +1,21 @@
+3 largo
+
+D 2 largo
+
+0
+
+2 rojo
+
+D largos
+
+D 2 largo
+
+D 2 spam verde, 4 Amarillo
+
+(3) Ov, 4 Amarillo
+
+spam rojo, 4 flecha
+
++++++++++++++++++
+
+165 720

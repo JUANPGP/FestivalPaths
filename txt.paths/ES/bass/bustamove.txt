@@ -1,0 +1,30 @@
+D pausa "1/2" (D 3 largo)
+
+verde
+
+2 naranja
+
+D Amarillo
+
+D 3 largo
+
+D 2 largo, 3 naranja?
+
+Azul
+
+--------------------(9)
+
+0
+
+D 3 largo
+
+D naranja
+
+0
+
++++++++++++++++++++
+
+209 508
+
+
+

@@ -1,0 +1,17 @@
+3 Doble
+
+2 doble largo
+
+D sprite, 4 rayita
+
+D pepsi largo SIN Conexion
+
+(4) D doble largo
+
+0
+
+0
+
++++++++++++
+
+160 658

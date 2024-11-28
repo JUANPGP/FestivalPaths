@@ -1,0 +1,23 @@
+D doble largo
+
+azul
+
+4 verde?
+
+(2) azul
+
+D "3 pausas"
+
+D doble largo
+
+(2) D 3 Fanta largo
+
+(2) D largo
+
+(4) 3 Pepsi?
+
+++++++++++++++
+
+272 816
+
+270 840

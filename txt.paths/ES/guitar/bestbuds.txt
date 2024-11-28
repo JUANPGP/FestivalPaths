@@ -1,0 +1,23 @@
+0
+
+D 3 largo naranja SIN CONEXION
+
+0
+
+edge
+
+0
+
+D largo rojo
+
+0
+
+D largo, 3 rojo?
+
+(3) D largo
+
+D 2 spam verde, 9 rojo?
+
++++++++++++++++++++
+
+140 149

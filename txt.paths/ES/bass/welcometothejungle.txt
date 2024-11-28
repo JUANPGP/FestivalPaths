@@ -1,0 +1,23 @@
+D largo
+
+D 3 largo azul
+
+2 azul
+
+D largo naranja
+
+0
+
+D 3 largo azul
+
+D 4 largo azul, INSTANT
+
+(3) D 3 largo
+
+D 5 largo azul
+
+D 3 largo azul
+
++++++++++++++++++
+
+308 256

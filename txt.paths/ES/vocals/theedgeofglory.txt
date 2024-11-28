@@ -1,0 +1,29 @@
+0
+
+3 largo Azul
+
+2 nota
+
+D 3 largo Amarillo
+
+D 2 largo, 2 nota
+
+D 2 largo naranja, verde
+
+largo Azul
+
+2 nota
+
+0
+
+---------------------(15)
+
+D largo rojo, 2 nota
+
+(2) D 2 largo rojo, 2 nota
+
+naranja
+
+++++++++++++++++++++
+
+180 813

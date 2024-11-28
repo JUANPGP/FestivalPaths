@@ -1,0 +1,29 @@
+D 4 naranja, Amarillo
+
+D 3 largo Amarillo
+
+0
+
+(2) D verde c flecha
+
+3 verde
+
+0
+
+rojo
+
+-----------------(8)
+
+(4) 0
+
+D 3 largo
+
+0
+
+D 3 largo naranja
+
+0
+
+++++++++++++++++++++
+
+275 877

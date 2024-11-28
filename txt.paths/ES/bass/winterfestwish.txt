@@ -1,0 +1,21 @@
+4 largo verde
+
+3 largo Azul
+
+D 3 largo verde
+
+D largo rojo
+
+3 largo Azul
+
+D 2 largo rojo
+
+D alrgo
+
+D largo rojo
+
+D largo
+
++++++++++++++++
+
+106 212

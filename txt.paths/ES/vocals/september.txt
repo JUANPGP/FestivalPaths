@@ -1,0 +1,19 @@
+D 3 largo verde, 3 Amarillo
+
+(2) D 4 largo Azul
+
+3 verde
+
+(2) D gran largo rojo, Amarillo
+
+D 2 largo rojo, rojo
+
+0
+
+largo verde
+
+D 2 largo verde
+
++++++++++++++++++++
+
+154 123

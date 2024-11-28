@@ -1,0 +1,19 @@
+5 largo
+
+D largo naranja, 2 Amarillo
+
+D largo Azul
+
+(2) D largo verde
+
+D doble largo
+
+3 rojo
+
+(2) D 2 largo Azul, 5 naranja
+
+4 largo naranja
+
++++++++++++++++++++
+
+179 158

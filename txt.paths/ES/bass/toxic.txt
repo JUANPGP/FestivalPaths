@@ -1,0 +1,25 @@
+2 naranja
+
+2 naranja
+
+4 azul
+
+4 Azul (NO connection)
+
+5 rojo
+
+2 naranja
+
+4 Azul (NO connection)
+
+verde
+
+---------------(8)
+
+3 Azul
+
+2 naranja
+
+++++++++++++++++
+
+113 493

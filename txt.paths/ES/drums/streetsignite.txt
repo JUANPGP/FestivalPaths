@@ -1,0 +1,15 @@
+(2) 2 Fanta
+
+D 2 edge, d 2 mcdonalds
+
+0
+
+(2) 2 sprite
+
+D 3 edge, d 2 mcdonalds
+
+D Azul, 4 fanta
+
+++++++++++++++++++
+
+167 040

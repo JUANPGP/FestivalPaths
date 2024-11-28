@@ -1,0 +1,21 @@
+D 3 naranja, D Azul, D 3 verde
+
+0
+
+D naranja, d Azul
+
+(2) D 2 naranja
+
+D 2 verde
+
+0
+
+largo
+
+D Azul
+
+D 3 verde
+
+++++++++++++++++
+
+275 286

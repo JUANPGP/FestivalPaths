@@ -1,0 +1,26 @@
+(2) D 2 pepsi
+
+Doble
+
+D 2 Amarillo
+
+0
+
+D 7 pepsi
+
+D 2 largo verde, D pepsi largo
+
+0
+
+D naranja, Amarillo
+
+0
+
+0
+
+0
+
++++++++++++++++++
+
+260 970
+

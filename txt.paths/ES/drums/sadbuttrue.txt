@@ -1,0 +1,27 @@
+D azul, doble
+
+D naranjas, 3 Sprite
+
+0
+
+D azul, 3 mcdonalds
+
+2 Doble
+
+0
+
+D 2 azul
+
+MasterCard
+
+3 doble
+
+4 Pepsi
+
+Pepsi
+
++++++++++++++++++++++++
+
+252 432
+
+250 386

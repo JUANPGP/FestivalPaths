@@ -1,0 +1,21 @@
+(2) D 2 largo rojo, verde
+
+2 verde
+
+(2) D 2 largo rojo, 3 Azul
+
+2 verde
+
+2 Azul
+
+D 5 naranja
+
+3 Azul
+
+--------------(4)
+
+0
+
+++++++++++++++++
+
+147 504

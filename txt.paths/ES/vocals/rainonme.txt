@@ -1,0 +1,21 @@
+D 2 largo
+
+D largo, 2 verde
+
+0
+
+D largo azul, 2 nota
+
+D 2 azul, 2 rojo
+
+3 naranja
+
+3 spam verde
+
+naranja 
+
+2 largo
+
+++++++++++++++++
+
+142 499

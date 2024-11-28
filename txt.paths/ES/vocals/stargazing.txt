@@ -1,0 +1,15 @@
+2 largo Amarillo
+
+naranja
+
+D 2 largo verde, 2 Amarillo
+
+D 4 largo Amarillo
+
+naranja
+
+D largo naranja, 4 largo rojo
+
+++++++++++++++++++++++++
+
+100 106

@@ -1,0 +1,27 @@
+D 6 largo Azul
+
+largo naranja
+
+2 largo Azul
+
+D 2 largo Azul
+
+D 5 largo Azul, 2 nota
+
+0
+
+largo Amarillo
+
+(2) largo
+
+3 Amarillo
+
+3 largo Azul
+
+D 3 largo, 2 nota
+
+++++++++++++++++++
+
+165 444
+
+163 834

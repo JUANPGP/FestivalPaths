@@ -1,0 +1,25 @@
+3 Doble largo
+
+naranja
+
+D largo verde
+
+D largo verde
+
+0
+
+0
+
+3 Azul
+
+2 naranja
+
+D 2 largo verde
+
+D largo
+
+Sprite largo
+
+++++++++++++++
+
+169 530

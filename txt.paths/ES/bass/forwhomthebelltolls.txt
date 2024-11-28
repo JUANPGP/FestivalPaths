@@ -1,0 +1,25 @@
+D 10 largo rojo
+
+11 Amarillo
+
+D largo Azul
+
+D 3 doble largo
+
+D largo rojo
+
+0
+
+D largo Azul
+
+D 2 largo
+
+(3) D 2 largo naranja
+
+Doble
+
+0
+
+++++++++++++++++++++
+
+252 282

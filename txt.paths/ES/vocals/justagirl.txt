@@ -1,0 +1,19 @@
+naranja
+
+D 7 largo Amarillo
+
+D 2 largo Amarillo, rojo
+
+0
+
+----------------(4)
+
+largo rojo
+
+2 largo Azul
+
+largo
+
++++++++++++++++++++++
+
+111 695

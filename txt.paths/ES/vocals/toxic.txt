@@ -1,0 +1,21 @@
+D verde, 2 rojo
+
+largo Azul
+
+(2) 0
+
+3 naranja
+
+largo Azul
+
+(2) 0
+
+0
+
+3 Azul
+
+3 largo naranja
+
++++++++++++++++
+
+121 604

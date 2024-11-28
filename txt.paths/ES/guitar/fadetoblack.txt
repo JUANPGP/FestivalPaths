@@ -1,0 +1,37 @@
+D largo naranja
+
+Pepsi largo
+
+(x3) mcdonalds
+
+sprite
+
+3 Microsoft edge largo
+
+0
+
+(x2) mcdonalds
+
+sprite
+
+3 Microsoft edge largo
+
+3 sprite
+
+(x2) 2 sprite
+
+3 sprite
+
+2 sprite
+
+D pepsi largo
+
+(2) D 2 largo rojo, Azul
+
+(2) D 2 largo Amarillo
+
+0
+
+++++++++++++++++++
+
+360 256

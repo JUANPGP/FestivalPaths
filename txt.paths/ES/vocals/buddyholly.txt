@@ -1,0 +1,19 @@
+D 4 Azul
+
+2 largo
+
+------------------(4)
+
+D 2 largo naranja, 3 nota
+
+2 largo verde
+
+D 2 verde, 5 rojo
+
+0
+
+largo verde
+
+++++++++++++++++
+
+103 931

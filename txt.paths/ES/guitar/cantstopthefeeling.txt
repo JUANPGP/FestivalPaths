@@ -1,0 +1,19 @@
+D 2 sprite largo
+
+(3) D 3 pepsi largo
+
+D fanta largo
+
+D 3 fanta largo
+
+-----------------(4)
+
+2 nota
+
+D 2 fanta largo
+
+D 2 fanta largo
+
++++++++++++++++++++++
+
+129 450

@@ -1,0 +1,19 @@
+D 2 naranja
+
+2 roja
+
+(3) Naranja
+
+0
+
+D 4 verde
+
+D 2 verde
+
+D 4 verde
+
++++++++++++++
+
+157 824
+
+156 924

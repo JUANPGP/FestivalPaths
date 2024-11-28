@@ -1,0 +1,19 @@
+4 sprite
+
+D fanta, 4 mcdonalds
+
+D 12 naranja, doble
+
+3 naranja
+
+D fanta, 4 mcdonalds
+
+D 12 naranja, doble
+
+(3) Amarillo
+
+D 11 Azul, doble
+
++++++++++++++++++
+
+287 856

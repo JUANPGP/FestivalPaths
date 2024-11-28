@@ -1,0 +1,31 @@
+2 doble largo
+
+----------------------(8)
+
+4 rojo
+
+0
+
+largo Azul
+
+sprite largo
+
+sprite largo
+
+---------------------(7)
+
+Amarillo
+
+0
+
+D 6 rojos juntos, 2 naranja
+
+D edge largo
+
+0
+
+0
+
+++++++++++++++++++++
+
+180 590

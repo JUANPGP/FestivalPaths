@@ -1,0 +1,19 @@
+D 2 doble largo, 3 nota
+
+(2) 2 naranja
+
+D 3 largo Azul
+
+D largo verde
+
+(2) D 3 verde, 3 nota
+
+2 Amarillo
+
+D 3 largo Azul
+
+D 2 naranja, D largo
+
++++++++++++++++
+
+143 732

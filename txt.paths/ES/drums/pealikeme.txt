@@ -1,0 +1,17 @@
+D 2 azul, D verde c flecha
+
+(3) D Edge
+
+(3) 0
+
+2 doble
+
+D 4 azul, doble
+
+Doble
+
+D 2 azul, doble
+
++++++++++++++++++
+
+172 512

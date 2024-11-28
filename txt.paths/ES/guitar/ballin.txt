@@ -1,0 +1,17 @@
+D 3 pepsi largo
+
+D largo naranja
+
+Edge largo, 1 tiempo
+
+(2) D pepsi largo
+
+0
+
+D 4 pepsi largo
+
++++++++++++++++++++++
+
+89 201
+
+88 338

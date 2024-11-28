@@ -1,0 +1,18 @@
+D 3 mcdonalds, 3 verde
+
+3 rojo
+
+D 5 mcdonalds 3 verde
+
+Doble
+
+3 rojo c flecha
+
+D 5 doble, 3 verde
+
+5 mcdonalds
+
+------------------(7)
+
+D 3 mcdonalds, 3 verde
+

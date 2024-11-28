@@ -1,0 +1,17 @@
+D 3 naranja, 2 verde
+
+mastercard largo
+
+D mastercard largo, Flechas dobles
+
+------------------(8)
+
+(2) verde
+
+D 2 naranja, verde
+
+0
+
++++++++++++++++++++
+
+134 340

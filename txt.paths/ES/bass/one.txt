@@ -1,0 +1,27 @@
+D 3 largo Azul
+
+D 3 largo Azul, 2 nota
+
+D 2 largo Amarillo, Azul
+
+D 3 largo Azul
+
+D 2 largo Azul, 2 nota
+
+D 2 largo Amarillo, Azul
+
+D largo rojp, 2 nota
+
+(3) D 2 largo verde
+
+(2) D 2 Azul
+
+(3) D 2 spam rojo
+
+0
+
+0
+
+++++++++++++++++++++++++
+
+500 124

@@ -1,0 +1,39 @@
+2 doble
+
+D Fanta
+
+2 mcdonalds
+
+0
+
+edge
+
+D fanta
+
+D fanta, 4 mcdonalds
+
+D 7 fanta
+
+0
+
+Edge
+
+D 5 fanta
+
+4 fanta
+
+Mastercard
+
+D 3 rojo, edge
+
+D rojo, edge
+
+0
+
+2
+
+2 doble
+
++++++++++++++++++++
+
+374 640

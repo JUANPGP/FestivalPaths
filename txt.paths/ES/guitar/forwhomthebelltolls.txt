@@ -1,0 +1,19 @@
+(2) Ov
+
+0
+
+11 verde
+
+(3) D 2 edge largo
+
+sprite
+
+(2) Ov, doble largo
+
+D largo verde
+
+D largo Amarillo
+
++++++++++++++++++++++
+
+223 150

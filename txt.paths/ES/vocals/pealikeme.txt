@@ -1,0 +1,19 @@
+(3) Ov
+
+5 amarillo
+
+0
+
+D 3 largo, D 3 azul
+
+D 4 largo rojo
+
+D largo rojo, 2 azul
+
+D 4 largo rojo
+
+D largo naranja, naranja
+
++++++++++++++++++
+
+222 228

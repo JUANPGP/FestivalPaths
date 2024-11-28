@@ -1,0 +1,18 @@
+7 rojo
+
+D 2 largo
+
+0 (x6)
+
+D largo
+
+D 5 naranja, 4 rojo?
+
+0
+
+D largo
+
+++++++++++++++++++++
+
+283 743
+

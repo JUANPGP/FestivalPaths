@@ -1,0 +1,22 @@
+D 2 largo naranja
+
+0
+
+D pausa "2/0" (D 2 largo rojo)
+
+D 3 largo naranja
+
+2 largo rojo
+
+2 Azul?
+
+0
+
+D 4 largo Amarillo
+
++++++++++++++++
+
+110 557
+
+
+

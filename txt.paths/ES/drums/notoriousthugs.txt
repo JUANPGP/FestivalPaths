@@ -1,0 +1,55 @@
+Doble
+
+3 sprite
+
+2 sprite
+
+3 sprite
+
+2 sprite
+
+3/2
+
+5/2
+
+5/2
+
+4
+
+0
+
+2 sprite
+
+-------------
+
+8 mcdonalds
+
+mcdonalds
+
+8 mcdonalds
+
+4 mcdonalds
+
+5/2
+
+4
+
+5
+
+4 mcdonalds
+
+Fanta
+
+4/2
+
+3/2
+
+4/2
+
+5
+
+++++++++++++++++++++++++
+
+419 328
+
+414 228

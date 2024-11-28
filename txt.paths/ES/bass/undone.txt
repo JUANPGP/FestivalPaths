@@ -1,0 +1,19 @@
+2 spam Amarillo
+
+0 (x6)
+
+2 spam Amarillo
+
+3 spam naranja
+
+0
+
+4 spam Amarillo, 3 nota
+
+Azul
+
+(4) 2 spam Amarillo, 4 nota
+
+++++++++++++++++++++
+
+204 336

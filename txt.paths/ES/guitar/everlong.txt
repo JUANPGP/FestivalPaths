@@ -1,0 +1,32 @@
+D mcdonalds, sprite
+
+D sprite, mcdonalds
+
+Sprite
+
+Sprite
+
+4 mcdonalds?
+
+4 pepsi?
+
+4 mcdonalds
+
+sprite
+
+4 mcdonalds?
+
+edge
+
+
+Doble
+
+Sprite
+
+edge
+
+edge
+
+++++++++++++++++++++++++
+
+320 928

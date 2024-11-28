@@ -1,0 +1,11 @@
+D 2 largo Amarillo
+
+--------------- (5)
+
+(2) D 2 largo amarillo
+
+(2) 3 verde
+
+++++++++++++++++++
+
+73 332

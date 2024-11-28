@@ -1,0 +1,23 @@
+D doble
+
+3/3 (D doble, 6 verde)
+
+2 doble
+
+0
+
+D 2 naranja, Amarillo
+
+3/3 (D doble, 6 verde)
+
+D Azul, naranja
+
+doble
+
+0
+
+2 verde
+
++++++++++++++++++
+
+225 072

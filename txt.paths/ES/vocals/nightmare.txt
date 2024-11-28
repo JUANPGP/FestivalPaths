@@ -1,0 +1,29 @@
+D 2 largo naranja
+
+3 verde
+
+(2) D largo naranja, 2 spam pegado azul
+
+0
+
+0
+
+-------------------(27)
+
+0
+
+D doble
+
+Doble
+
+D 3 largo amarillo
+
+D largo amarillo
+
+D largo rojo
+
+0
+
++++++++++++++++++++
+
+190 415

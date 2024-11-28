@@ -1,0 +1,16 @@
+naranja
+
+0
+
+Amarillo
+
+D 2 largo Azul, 2 Amarillo
+
+(2) D 3 naranja, 4 Amarillo
+
+D 2 naranja, 3 Azul
+
++++++++++++++++
+
+113 229
+

@@ -1,0 +1,23 @@
+(2) D 2 verde
+
+(3) D 9 verde
+
+3 naranja
+
+D 2 largo rojo
+
+0
+
+D largo Amarillo
+
+2 largo Amarillo
+
+D largo
+
+10 naranja
+
++++++++++++++++++
+
+181 680
+
+180 278

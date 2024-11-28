@@ -1,0 +1,17 @@
+D 2 verde
+
+(2) Ov, 2 largo
+
+D naranja
+
+(2) Ov, largo
+
+D 3 naranja?
+
+--------------------(15)
+
+(3) D largo verde, largo
+
+++++++++++++++++++++
+
+111 335 

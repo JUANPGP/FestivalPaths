@@ -1,0 +1,23 @@
+D 4 naranja, 6 doble
+
+4 azul
+
+D 4 Pepsi
+
+7 Doble
+
+D 4 naranja, 6 doble
+
+4 azul
+
+4 Pepsi
+
+D Pepsis, 7 Sprite SIN CONEXION
+
+(2) D Edge
+
+(2) Ov, 3 doble
+
++++++++++++++++++++++
+
+209 328

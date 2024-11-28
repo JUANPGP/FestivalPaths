@@ -1,0 +1,32 @@
+D mastercard, doble
+
+D 3 mastercard, 3 doble
+
+0
+
+mastercard
+
+2 mcdonalds
+
+0
+
+Fanta
+
+edge
+
+2 fanta
+
+0
+
+2 fanta
+
+
+edge
+
+2 doble
+
+2 doble
+
+++++++++++++++++++
+
+208 800

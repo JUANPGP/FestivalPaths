@@ -1,0 +1,21 @@
+2 sprite
+
+0
+
+2 mcdonalds
+
+mcdonalds
+
+D naranja, 2 Amarillo c flecha
+
+3 mcdonalds
+
+D naranja, 2 Amarillo c flecha
+
+2 mcdonalds   
+
+3 mcdonalds
+
++++++++++++++++++
+
+143 280

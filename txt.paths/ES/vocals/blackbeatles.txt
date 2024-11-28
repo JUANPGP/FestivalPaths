@@ -1,0 +1,31 @@
+D 2 largo naranja
+
+Largo verde
+
+D 2 largo Azul, Azul
+
+3 verde
+
+D 2 largo naranja
+
+verde
+
+D 2 largo
+
+D 3 largo naranja
+
+D largo Amarillo, Amarillo
+
+D naranja, 2 verde
+
+2 verde
+
+D 2 largo Naranja
+
+D 2 verde
+
+++++++++++++++++
+
+241 373
+
+239 330

@@ -1,0 +1,19 @@
+D pausa "0/2"
+
+3 edge?
+
+D edge, 4 sprite?
+
+D pausa "0/2"
+
+D pausa "0/2"
+
+D 2 edge, doble
+
+0
+
+D 2 Azul, 2 sprite
+
+++++++++++++++++++++++++
+
+135 216

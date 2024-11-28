@@ -1,0 +1,45 @@
+(3) 3 naranja?
+
+0
+
+naranja
+
+0
+
+D 2 rojo, naranja
+
+D 5 Azul, naranja
+
+D 3 Azul, naranja
+
+2 Amarillo
+
+D pausa "1/1"
+
+6 Azul
+
+D largo
+
+0
+
+0
+
+D pausa  "1/2"
+
+0
+
+D 5 Azul, naranja
+
+D 3 Azul, naranja
+
+3 Amarillo?
+
+4 Azul
+
+0
+
+0
+
+++++++++++++++++++++++
+
+330 048

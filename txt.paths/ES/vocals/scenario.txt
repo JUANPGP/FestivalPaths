@@ -1,0 +1,19 @@
+D 10 Azul, 2 roja
+
+D largo naranja
+
+D largo Amarillo, azul
+
+(3) D largo naranja
+
+naranja
+
+D 4 naranja
+
+D naranja, 11 verde
+
++++++++++++++++++++
+
+276 648 
+
+274 228	

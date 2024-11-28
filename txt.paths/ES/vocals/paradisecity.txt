@@ -1,0 +1,49 @@
+------------------(20)
+
+0
+
+-------------------(4)
+
+2 nota
+
+0
+
+-------------------(4)
+
+2 azul
+
+0
+
+-----------------(7)
+
+D 2 largo azul
+
+D largo amarillo
+
+0
+
+-------------------(14)
+
+largo azul
+
+D largo amarillo, 3 rayita
+
+D largo amarillo
+
+naranja
+
+D largo naranja, 2 naranjas
+
+-------------------(9)
+
+largo
+
+D largo
+
+3 naranja
+
+D largo
+
++++++++++++++++++++
+
+243 623 

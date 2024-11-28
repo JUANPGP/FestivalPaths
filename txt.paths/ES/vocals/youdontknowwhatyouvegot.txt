@@ -1,0 +1,25 @@
+D 3 largo rojo
+
+3 rojo
+
+D 2 Azul
+
+2 Azul
+
+2 nota
+
+0
+
+----------------(7)
+
+2 largo
+
+5 verde
+
+largo rojo
+
+largo
+
+++++++++++++++++
+
+100 565

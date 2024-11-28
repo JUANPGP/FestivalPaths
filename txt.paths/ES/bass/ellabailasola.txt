@@ -1,0 +1,34 @@
+Mitad 3 largo Amarillo
+
+D largo naranja
+
+D 3 rojo
+
+---
+
+D 2 largo Azul
+
+D largo naranja
+
+D largo rojo
+
+D 2 rojo
+
+----
+
+D 2 largo Azul
+
+2 verde
+
+----
+
+D largo Azul 
+
+(2) 2 rojo
+
+D 2 largo Azul
+
++++++++++++++++
+
+241 008
+

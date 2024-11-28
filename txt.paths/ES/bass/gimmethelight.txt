@@ -1,0 +1,21 @@
+(2) 2 verde
+
+D 3 Amarillo
+
+2 rojo
+
+D 4 Amarillo
+
+2 rojo
+
+2 Amarillo
+
+Amarillo
+
+2 Amarillo
+
+2 amarillo
+
+++++++++++++++++
+
+86 832

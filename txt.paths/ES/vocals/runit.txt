@@ -1,0 +1,14 @@
+D largo, verde
+
+0
+
+D 3 naranja, 2 nota
+
+D 3 Azul
+
+(3) D 3 Azul
+
+++++++++++++++++
+
+104 182
+

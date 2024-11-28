@@ -1,0 +1,25 @@
+3 sprite
+
+---------------(6)
+
+0
+
+3 sprite
+
+0
+
+5 pepsi
+
+4 pepsi
+
+D 3 doble largo
+
+D doble largo, 3 sprite
+
+D doble largo
+
+++++++++++++++++++++
+
+189 216
+
+99 649

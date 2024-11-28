@@ -1,0 +1,13 @@
+(3) verde
+
+D 2 verde
+
+D 3 naranja
+
+D 2 largo
+
+D 4 largo
+
++++++++++++++++++++
+
+124 582

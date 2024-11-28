@@ -1,0 +1,23 @@
+D 5 largo Azul
+
+D largo Azul
+
+2 verde
+
+Ov, 3 Amarillo
+
+D 3 verde
+
+0
+
+D largo Azul
+
+(2) Ov
+
+8 verde
+
+D largo Azul
+
+++++++++++++++++
+
+312 148

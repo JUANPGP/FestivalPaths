@@ -1,0 +1,22 @@
+D 2 Azul, D Amarillo
+
+2 verde
+
+4 naranja
+
+D 2 Azul, d Amarillo
+
+2 verde
+
+4 naranja
+
+0
+
+0
+
+4 doble
+
+++++++++++++++++++++
+
+170 784
+

@@ -1,0 +1,15 @@
+(3) D rojo
+
+D Azul, d 2 rojo
+
+D sprite
+
+D 5 rojo
+
+Doble
+
++++++++++++++++++
+
+111 600
+
+110 952

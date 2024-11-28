@@ -1,0 +1,19 @@
+(Predecible, escucha la musica, 1 nota antes de la nota con flecha)
+
+D 6, 2 rojo
+
+D 4, 2 rojo
+
+2 rojo
+
+2 rojo
+
+D 4, 2 rojo
+
+----------------------(4)
+
+D 4 azul, 2 rojo
+
+++++++++++++++++++
+
+132 336

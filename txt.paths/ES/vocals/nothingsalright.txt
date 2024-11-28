@@ -1,0 +1,17 @@
+D 3 azul, 2 nota
+
+0
+
+D 2 largo
+
+D verde
+
+D 3 largo
+
+D 4 verde?
+
+D 2 naranja
+
++++++++++++++++
+
+97 016

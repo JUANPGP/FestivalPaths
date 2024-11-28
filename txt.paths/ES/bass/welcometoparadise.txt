@@ -1,0 +1,21 @@
+naranja
+
+0
+
+D 2 spam rojo
+
+(2) 0
+
+0
+
+D 2 spam rojo
+
+(2) D 3 naranja, 2 verde
+
+0 (x7)
+
+D 4 naranja, 3 azul
+
+++++++++++++++++++
+
+306 576

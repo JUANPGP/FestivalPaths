@@ -1,0 +1,23 @@
+D 2 largo Amarillo
+
+D 2 largo Amarillo, 4 rojo
+
+D largo Amarillo
+
+D largo naranja
+
+5 verde
+
+D pausa "2/0" (D largo naranja)
+
+D 2 largo
+
+D 6 verde
+
+0
+
+D 4 largo verde, 2 Amarillo
+
++++++++++++++++
+
+187 629

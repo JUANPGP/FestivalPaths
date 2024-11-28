@@ -1,0 +1,25 @@
+D Edge, doble
+
+5 doble
+
+0
+
+D 2 Edge, doble
+
+4 (D 3 mcdonalds, 2 doble)
+
+0
+
+0
+
+-------------(8)
+
+5 doble
+
+D Fanta, doble
+
+++++++++++++++++++++
+
+211 392
+
+206 436

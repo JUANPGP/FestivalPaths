@@ -1,0 +1,17 @@
+D 3 naranja, 4 Amarillo?
+
+D verde
+
+0
+
+D 3 naranja, rojo
+
+D largo
+
+D pausa "2/0"
+
+5 rojo
+
++++++++++++++++++++++++
+
+132 564

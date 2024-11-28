@@ -1,0 +1,23 @@
+2 D largo Amarillo, 4 rojo
+
+largo
+
+rojo
+
+(2) 4 rojo
+
+2 largo Azul
+
+1 rayita del largo verde
+
+2 largo verde
+
+D largo Azul, 3 naranja
+
+0
+
+1 rayita del largo verde
+
++++++++++++++++++++
+
+210 728

@@ -1,0 +1,43 @@
+(3) 6 doble
+
+Pepsi
+
+3 Sprite
+
+0
+
+3 Sprite
+
+4 Fanta
+
+2 Pepsi
+
+4/3 (D 3 Fanta, D 3 mcdonalds, doble)
+
+4 Fanta 
+
+D pausa "1/0" (Naranja)
+
+rojo
+
+(2) 5 rojo
+
+9 rojo
+
+0
+
+2 doble
+
+Doble
+
+D 2 Pepsi, 2 roja
+
+4 doble
+
+3 Pepsi
+
+2 verde
+
+++++++++++++++++
+
+377 520 

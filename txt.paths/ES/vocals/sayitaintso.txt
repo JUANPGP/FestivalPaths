@@ -1,0 +1,25 @@
+(2) D largo naranja, Amarillo
+
+D mini Descanso "2/0"
+
+---------------(8)
+
+D 2 largo naranja
+
+0
+
+D mini Descanso "2/0"
+
+0
+
+D largo, instant
+
+-------------(14)
+
+D largo Amarillo
+
+D 2 rojo
+
+++++++++++++++
+
+111 924

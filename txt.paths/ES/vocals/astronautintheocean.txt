@@ -1,0 +1,19 @@
+2 largo Amarillo
+
+D 2 largo Amarillo
+
+D 2 naranjas juntas?, Azul
+
+(2) 0
+
+D 3 largo Azul, 2 nota
+
+4 Amarillo
+
+0
+
+++++++++++++++++++
+
+145 206
+
+143 726

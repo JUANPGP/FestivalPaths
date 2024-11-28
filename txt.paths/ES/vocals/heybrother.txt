@@ -1,0 +1,19 @@
+3 largo rojo, instant (Un poco despues, no mucho)
+
+Amarillo
+
+D largo Amarillo
+
+0 (NC)
+
+-----------------(26)
+
+D 2 largo rojo
+
+D 2 largo Amarillo
+
+D 3 largo azul
+
+++++++++++++++++
+
+100 443

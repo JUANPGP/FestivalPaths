@@ -1,0 +1,20 @@
+D 6 Azul (x2)
+
+D 5 Azul, 2 Amarillo (x2)
+
+D rojo
+
+D 7 Azul
+
+D 5 Azul
+
+3 largo rojo (x2)
+
+D 2 Azul
+
+D 6 Azul
+
+++++++++++++++++++
+
+179 532
+

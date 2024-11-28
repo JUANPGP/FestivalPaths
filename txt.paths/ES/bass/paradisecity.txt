@@ -1,0 +1,39 @@
+D 5 largo naranja
+
+0
+
+(2) D largo
+
+(4) verde
+
+0
+
+3 naranja
+
+D 2 largo
+
+0
+
+D 3 naranja, 3 azul
+
+D 3 naranja, 3 azul
+
+3 amarillo
+
+3 azul
+
+0
+
+D 6 naranja?, verde
+
+naranja
+
+naranja
+
+0
+
+0
+
++++++++++++++++++
+
+414 439

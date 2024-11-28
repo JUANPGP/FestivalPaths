@@ -1,0 +1,23 @@
+0
+
+(3) Ov
+
+D 5 verde
+
+D largo verde
+
+(3) 8 largo Azul
+
+2 largo naranja, 2 rayita
+
+D 3 Azul
+
+D 4 largo rojo
+
+D largo verde
+
+(2) D 3 rojo
+
++++++++++++++++++++++++
+
+159 634

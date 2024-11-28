@@ -1,0 +1,27 @@
+D spam rojo
+
+5 naranja
+
+verde
+
+naranja
+
+D spam rojo
+
+5 naranja
+
+verde
+
+------------------(4)
+
+(3) D 2 spam verde, rojo
+
+-------------------(4)
+
+0
+
+naranja
+
++++++++++++++++++++
+
+203 238

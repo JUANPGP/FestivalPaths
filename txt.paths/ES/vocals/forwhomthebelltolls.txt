@@ -1,0 +1,15 @@
+D 5 largo rojo
+
+-------------------(13)
+
+0
+
+D naranja, 4 rojo?
+
+D largo rojo, 3 rojo?
+
+D 2 largo rojo
+
+++++++++++++++++++
+
+56 503

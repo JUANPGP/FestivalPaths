@@ -1,0 +1,27 @@
+2 Azul
+
+D verde
+
+2 largo
+
+D 2 Amarillo
+
+0
+
+D 2 rojo
+
+3 verde
+
+largo
+
+2 nota
+
+D largo, 3 rojo
+
+D 2 verde
+
+D 2 verde
+
++++++++++++++++
+
+192865

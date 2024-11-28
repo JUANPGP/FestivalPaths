@@ -1,0 +1,41 @@
+En el x6
+
+3 rojo
+
+2 naranja
+
+D 3 naranja
+
+(4) D 2 Azul, verde
+
+D 2 largo
+
+D 2 largo naranja
+
+D largo Azul
+
+(4) D 3 largo
+
+0
+
+D largo
+
+0
+
+(2) D 2 doble largo
+
+0
+
+0
+
+naranja
+
+3 amarillo
+
+0
+
+D 3 largo verde
+
+++++++++++++++++++++++++++
+
+586 980 

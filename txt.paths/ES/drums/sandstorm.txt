@@ -1,0 +1,21 @@
+3 verde
+
+D 6 rojo, 2 Amarillo
+
+D naranja, 2
+
+-------------------(6)
+
+D 2 largo
+
+0
+
+0
+
+(2) 2 naranja
+
+D naranja, 2
+
+++++++++++++++++++++
+
+247 725

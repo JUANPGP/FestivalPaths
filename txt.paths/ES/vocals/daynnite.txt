@@ -1,0 +1,25 @@
+(2) 0
+
+D 3 largo
+
+D 2 largo
+
+0
+
+0
+
+D 3 largo
+
+D largo naranja
+
+D 3 largo naranja
+
+D largo
+
+0
+
+D 5 largos seguidos
+
++++++++++++++++++++
+
+157 883

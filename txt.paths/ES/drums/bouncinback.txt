@@ -1,0 +1,28 @@
+3 rojo
+
+Azul
+
+0
+
+Ov
+
+D Amarillo, 6 rojo
+
+Amarillo
+
+D 2 rojo
+
+0
+
+Doble
+
+4 verde?
+
+0
+
+D 4 Amarillo, D 4 rojo
+
+++++++++++++++++++++
+
+151 551
+

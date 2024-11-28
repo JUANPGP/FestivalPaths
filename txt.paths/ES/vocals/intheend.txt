@@ -1,0 +1,19 @@
+4 Amarillo
+
+D 2 largo Azul
+
+D 4 largo Amarillo
+
+D 2 largo verde
+
+D 2 largo Azul
+
+D Amarillo
+
+largo Azul
+
+D 3 naranja, 3 roja
+
+++++++++++++++++++
+
+152 052

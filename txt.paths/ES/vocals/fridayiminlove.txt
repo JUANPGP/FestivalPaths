@@ -1,0 +1,23 @@
+D verde, 2 largo
+
+0
+
+2 largo amarillo
+
+-----------------(8)
+
+3 largo amarillo
+
+D 2 largo amarillo
+
+D 2 largo rojo
+
+D largo verde, 2 amarillo
+
+2 largo rojo
+
+largo rojo
+
++++++++++++++
+
+131 276

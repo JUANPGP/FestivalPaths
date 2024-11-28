@@ -1,0 +1,19 @@
+(2) Doble largo
+
+D 2 doble largo
+
+(2) D spam verde
+
+4 Edge
+
+Doble largo
+
+D 2 Doble largo
+
+(2) D pausa "2/0" (Doble largo)
+
+D 2 doble largo
+
+++++++++++++++++
+
+198 942

@@ -1,0 +1,19 @@
+D 2 largo verde, 3 largo naranja
+
+-----------------(4)
+
+largo Amarillo
+
+Azul
+
+-----------------(4)
+
+D 2 largo rojo, Azul
+
+largo
+
+D 2 largo rojo, Azul
+
++++++++++++++++++++++
+
+80 469

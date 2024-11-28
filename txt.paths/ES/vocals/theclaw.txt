@@ -1,0 +1,25 @@
+2 largo naranja
+
+4 largo Amarillo
+
+largo rojo
+
+D 2 largo rojo
+
+D largo verde
+
+D 2 largo Amarillo, verde
+
+D 3 largo rojo
+
+------------------(13)
+
+Doble largo
+
+D 3 largo rojo
+
+4 largo Amarillo
+
++++++++++++++++++++
+
+165 698

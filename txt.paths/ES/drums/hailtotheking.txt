@@ -1,0 +1,31 @@
+(2) 2/3 (6 Sprite)
+
+2 doble
+
+D 2 Fanta, 1/4 (4 mcdonalds)
+
+D 3 Fanta, Doble
+
+4 Fanta
+
+5 Fanta
+
+D Fanta, 1/4 (4 mcdonalds)
+
+D 2 Fanta, 1/4 (4 mcdonalds)
+
+8 (D 6 Fanta, Edge)
+
+0
+
+0
+
+6 doble
+
+2 mcdonalds
+
+++++++++++++++++++
+
+273 024
+
+271 944

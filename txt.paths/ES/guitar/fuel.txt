@@ -1,0 +1,25 @@
+0
+
+Doble
+
+D pausa "1/0"
+
+3 naranja c flecha
+
+Doble
+
+D pausa "2/0"
+
+D 8 doble largo
+
+rojo
+
+rojo
+
+D pausa "1/0"
+
+++++++++++++
+
+273 396
+
+268 825

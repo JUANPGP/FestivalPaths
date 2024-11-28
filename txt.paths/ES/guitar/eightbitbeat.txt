@@ -1,0 +1,19 @@
+D 2 naranja, 6 Amarillo
+
+0
+
+0
+
+verde
+
+D edge
+
+D pepsi
+
+D 2 edge
+
+D 2 pepsi, rojo
+
++++++++++++++++++++
+
+92 592

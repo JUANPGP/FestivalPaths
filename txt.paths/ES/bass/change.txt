@@ -1,0 +1,17 @@
+5 verde
+
+D 2 largo Azul, 4 verde?
+
+0
+
+0
+
+5 verde
+
+4 verde?
+
+D largo, 4 verde
+
++++++++++++++++++
+
+172 794

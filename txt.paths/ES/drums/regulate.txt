@@ -1,0 +1,19 @@
+0
+
+2 sprite
+
+D edge, 2 sprite
+
+D edge, 2 sprite
+
+0
+
+D edge, 2 sprite
+
+0
+
+++++++++++++++++++
+
+320 544
+
+317 376

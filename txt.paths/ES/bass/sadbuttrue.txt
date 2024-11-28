@@ -1,0 +1,25 @@
+D 2 largo
+
+D 5 naranja, 4 azul?
+
+2 naranja
+
+D azul, 3 verde?
+
+D 6 naranjas, 3 rojo?
+
+D largo
+
+2 naranja
+
+D 4 naranja, 4 azul?
+
+4 rojo
+
+D azul, 3 verde?
+
+4 azul?
+
++++++++++++++++
+
+246 579

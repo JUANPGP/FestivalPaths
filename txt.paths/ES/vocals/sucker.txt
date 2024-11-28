@@ -1,0 +1,21 @@
+D largo Amarillo
+
+D 2 largo rojo
+
+0
+
+D 5 Azul
+
+0
+
+0
+
+D 4 largo Azul
+
+0
+
+D largo
+
++++++++++++++++++
+
+163 968

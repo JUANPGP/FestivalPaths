@@ -1,0 +1,25 @@
+D Azul
+
+0
+
+Azul con flecha
+
+(4) 6
+
+--------------(8)
+
+(2) 6 roja
+
+0
+
+D 3 largo Azul, verde
+
+(2) 0
+
+D 3 Azul
+
+Doble
+
++++++++++++++++++++++
+
+344 196

@@ -1,0 +1,23 @@
+D rojos, 2 verde
+
+D 2 largo
+
+D 2 largo Amarillo
+
+0
+
+0
+
+largo
+
+0
+
+D 2 largo Amarillo
+
+2 largo Amarillo
+
+++++++++++++++++++
+
+95 811
+
+95 354

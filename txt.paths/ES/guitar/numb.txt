@@ -1,0 +1,15 @@
+D 4 largo azul, 3 largo
+
+0
+
+0
+
+5 largo rojo
+
+D 3 Sprite largo
+
+0
+
++++++++++++++++++++
+
+57 525

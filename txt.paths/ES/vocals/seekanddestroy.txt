@@ -1,0 +1,21 @@
+D largo Azul
+
+D 3 naranja, 3 Amarillo
+
+-----------------(6)
+
+(2) D pausa "0/3"
+
+D 3 naranja, 3 Amarillo
+
+-----------------(76)
+
+D 76, 2 tiempo
+
+D 3 naranja, 3 Amarillo
+
+D 3 largo 
+
++++++++++++++++++++++++
+
+95 464

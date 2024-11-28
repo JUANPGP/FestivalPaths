@@ -1,0 +1,21 @@
+(3) McDonalds
+
+D 3 McDonalds
+
+(2) Ov D mastercard
+
+3 pepsi
+
+0
+
+0
+
+--------------(4)
+
+D 4 pepsi, 2 doble
+
+0
+
+++++++++++++++
+
+132 048

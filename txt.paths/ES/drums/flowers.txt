@@ -1,0 +1,19 @@
+3 sprite
+
+0
+
+(2) mcdonalds
+
+D naranja
+
+0
+
+5
+
+D naranja, 4 mcdonalds
+
++++++++++++++++++
+
+153 360
+
+153 216

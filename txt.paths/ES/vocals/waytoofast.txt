@@ -1,0 +1,22 @@
+5 largo Azul
+
+largo verde
+
+D 2 largo Amarillo
+
+D largo rojo
+
+3 largo rojo
+
+D largo Amarillo
+
+--------------(8)
+
+2 largo rojo
+
+D 2 largo Amarillo
+
+++++++++++++++
+
+100 607
+

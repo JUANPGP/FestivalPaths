@@ -1,0 +1,25 @@
+(3) 2 azul
+
+0
+
+largo
+
+3 verde
+
+D 3 verdes juntas
+
+2 azul
+
+largo naranja
+
+verde
+
+D 3 largo naranja, azul
+
+2 azul
+
++++++++++++++
+
+172 607
+
+170 971

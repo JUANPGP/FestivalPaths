@@ -1,0 +1,19 @@
+D naranja
+
+0
+
+D pausa "1/0" (4 verde)
+
+rojo
+
+0
+
+D 2 verde
+
+D largo
+
+0
+
+++++++++++++++++++
+
+152 175

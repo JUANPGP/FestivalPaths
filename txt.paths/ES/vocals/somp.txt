@@ -1,0 +1,23 @@
+(2) 0
+
+------------------(7)
+
+Amarillo
+
+D largo Azul, 3 rojo
+
+D 2 largo Azul
+
+D largo verde
+
+------------------(14)
+
+------------------(8)
+
+D 2 largo Azul
+
+D 2 largo verde
+
+++++++++++++++++++++++
+
+92 451

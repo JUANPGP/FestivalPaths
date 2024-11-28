@@ -1,0 +1,13 @@
+D 4 naranja
+
+D 3 spam naranja
+
+(3) D 6 Azul
+
+(2) 3 Azul
+
+Amarillo
+
+++++++++++++++++
+
+264 066

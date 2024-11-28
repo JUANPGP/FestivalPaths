@@ -1,0 +1,23 @@
+(2) 2 largo Amarillo
+
+D 2 largo Amarillo
+
+D 4 largo verde
+
+D 2 largo Amarillo
+
+0
+
+D 2 largo naranja
+
+(2) D largo naranja
+
+D spam verde, 2 rojo
+
+D largo verde
+
+D largo naranja
+
+++++++++++++++++++
+
+243 732

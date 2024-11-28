@@ -1,0 +1,17 @@
+D Fanta, 3 doble
+
+D Fanta
+
+D Fanta
+
+(4) Fanta
+
+Fanta
+
+Fanta
+
+D 2 Fanta, 5 Sprite
+
++++++++++++++
+
+236 160

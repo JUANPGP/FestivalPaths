@@ -1,0 +1,25 @@
+D 3 naranja, Amarillo
+
+Amarillo
+
+0
+
+D 4 naranja, Amarillo
+
+Amarillo
+
+verde
+
+verde
+
+D largo verde
+
+D largo verde, verde
+
+Amarillo
+
++++++++++++++++++
+
+157 269
+
+155 886

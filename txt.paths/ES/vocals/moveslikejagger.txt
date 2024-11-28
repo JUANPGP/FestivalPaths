@@ -1,0 +1,23 @@
+3 verde
+
+D largo Azul, 2 Amarillo
+
+D 3 largo verde
+
+0
+
+D largo, Azul
+
+2 largo Azul
+
+2 largo Azul
+
+2 verde
+
+0
+
+4 largo Azul
+
+++++++++++++++++++
+
+185 458

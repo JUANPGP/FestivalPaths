@@ -1,0 +1,23 @@
+D naranja, 2 Azul
+
+D largo Amarillo, rojo
+
+4 rojo
+
+D 2 largo Azul
+
+D largo Amarillo, rojo
+
+0
+
+6 verde
+
+D 2 largo Amarillo
+
+D largo amarillo
+
+++++++++++++++++
+
+224 339
+
+221 863

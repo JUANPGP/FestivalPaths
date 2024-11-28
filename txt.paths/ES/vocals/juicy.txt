@@ -1,0 +1,23 @@
+4 Amarillo
+
+D 4 naranja
+
+Azul
+
+(2) Azul
+
+D 2 largo Azul, 2 Amarillo
+
+D naranja, 3 verde
+
+D 2 largo verde, 2 Azul
+
+D 2 largo verde
+
+verde
+
+D largo rojo
+
+++++++++++++++++++
+
+253 644

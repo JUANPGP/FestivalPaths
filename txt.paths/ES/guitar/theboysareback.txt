@@ -1,0 +1,36 @@
+Sprite
+
+Edge
+
+D sprite largo
+
+D 2 spam Azul
+
+Sprite
+
+0
+
+D sprite largo
+
+doble
+
+0
+
+2 edge
+
+doble
+
+sprite largo
+
+(2) 0/4 Doble largo
+
+D 2 largo, 2 nota
+
+D 2 largo, 2 nota
+
+2 nota
+
++++++++++++++++++++
+
+233 602
+

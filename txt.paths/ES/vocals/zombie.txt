@@ -1,0 +1,17 @@
+D 3 azul
+
+5 rojo
+
+3 rojo
+
+0
+
+D 3 largo rojo
+
+D 4 amarillo, 2 nota
+
+D 4 verde
+
++++++++++++++++
+
+86 235

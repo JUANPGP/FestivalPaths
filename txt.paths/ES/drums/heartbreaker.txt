@@ -1,0 +1,29 @@
+rojo
+
+Doble
+
+0
+
+D 2 fanta, rojo
+
+5 fanta
+
+2 naranja
+
+D 2 fanta
+
+4 pepsi
+
+D 2 verde, D 4 doble, 2 rayita
+
+(2) 0
+
+Doble
+
+0
+
+(2) 6 edge
+
++++++++++++++++++
+
+220 416

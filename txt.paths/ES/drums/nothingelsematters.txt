@@ -1,0 +1,25 @@
+3 sprite
+
+5 mcdonalds
+
+0
+
+D 3 mcdonalds
+
+0
+
+Mcdonalds
+
+4 mcdonalds
+
+3 mcdonalds
+
+D fanta, 2 doble
+
+0
+
+Ov (Mcdonalds)
+
+++++++++++++++++++
+
+154 656

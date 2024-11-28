@@ -1,0 +1,17 @@
+(3) D naranja c flecha, 4 doble
+
+D 2 doble largo, 2 doble
+
+(2) 0
+
+edge
+
+D 3 doble largo
+
+(2) D largos
+
+edge
+
+++++++++++++++++++++
+
+187 212

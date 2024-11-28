@@ -1,0 +1,27 @@
+Roja con flecha
+
+D 3 largo Azul, 2 roja con flecha
+
+0
+
+D largo naranja, Amarillo
+
+Amarillo
+
+(2) 3 Azul
+
+2 Azul
+
+3 Amarillo
+
+D largo Azul, 2 Amarillo
+
+D 2 largo naranja
+
+D largo naranja
+
+0
+
+++++++++++++++++++
+
+217 848 	

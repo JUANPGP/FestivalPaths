@@ -1,0 +1,27 @@
+largo naranja SIN Conexion
+
+verde
+
+Azul
+
+D 2 largo Amarillo
+
+------------------(8)
+
+D largo
+
+------------------(85)
+
+D largo
+
+------------------(22)
+
+largo
+
+0
+
+D largo naranja
+
+++++++++++++++
+
+100 295

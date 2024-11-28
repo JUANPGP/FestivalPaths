@@ -1,0 +1,21 @@
+D 4 "escalera" Azul verde, Azul
+
+Doble
+
+D 3 verde c flecha, 2 rojo
+
+(2) D 4 "escalera" Azul verde
+
+Doble
+
+3 Azul
+
+0
+
+4 Azul
+
+doble
+
++++++++++++++++
+
+170 784

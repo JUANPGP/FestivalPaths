@@ -1,0 +1,25 @@
+verde
+
+2 largo azul
+
+D 3 largo rojo
+
+D largo
+
+D 2 largo azul, 2 nota
+
+D 2 largo naranja
+
+D 3 largo rojo
+
+D 6 largo azul, 2 nota
+
+2 largo
+
+D 2 largo
+
+++++++++++++++++
+
+165 440
+
+161 982

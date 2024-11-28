@@ -1,0 +1,23 @@
+D 3 largo Amarillo
+
+D largo naranja
+
+D largo verde
+
+D largo Amarillo
+
+0
+
+D largo
+
+0
+
+D 2 largo Amarillo
+
+D largo
+
+All 0
+
+++++++++++++++++++++
+
+90 642

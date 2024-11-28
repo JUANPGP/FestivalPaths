@@ -1,0 +1,19 @@
+D verde, 3 roja
+
+0
+
+D 3 largo naranja
+
+======
+
+D doble largo
+
+0
+
+0
+
+D 3 verde, 1 flecha roja
+
++++++++++++++++++++++
+
+217 746

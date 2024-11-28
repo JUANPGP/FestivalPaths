@@ -1,0 +1,21 @@
+D 2 largo rojo, rojo
+
+D largo verde, verde
+
+D largo rojo, rojo
+
+verde
+
+0
+
+D largo rojo, Amarillo
+
+rojo
+
+D largo
+
+0
+
+++++++++++++++++++
+
+138 186

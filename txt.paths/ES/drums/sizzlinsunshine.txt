@@ -1,0 +1,27 @@
+D mcdonalds
+
+(2) D pausa "0/1" (8 sprite)
+
+Amarillo
+
+doble
+
+D mcdonalds
+
+Fanta
+
+D pausa "0/1" (5 sprite)
+
+Amarillo
+
+3 sprite
+
+D fanta, doble
+
+D fanta, doble
+
+D fanta, doble
+
+++++++++++++++++++++++++++++
+
+312 336

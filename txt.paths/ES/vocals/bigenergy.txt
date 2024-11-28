@@ -1,0 +1,19 @@
+D 7 naranjas
+
+0
+
+9 rojas
+
+0
+
+9 Amarillo
+
+D 2 naranja, 7 roja
+
+0
+
++++++++++++++
+
+169 139
+
+139 598

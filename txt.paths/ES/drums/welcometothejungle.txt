@@ -1,0 +1,19 @@
+2 Mcdonalds
+
+(3) 6 Fanta
+
+D Fanta
+
+(2) Pepsi
+
+(3) D Fanta
+
+0
+
+5 Fanta (2)
+
+6 Fanta (7)
+
+++++++++++++++++
+
+280656

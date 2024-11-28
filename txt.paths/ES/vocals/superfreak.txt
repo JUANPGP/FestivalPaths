@@ -1,0 +1,21 @@
+D 2 naranja?, 2 Amarillo?
+
+D largo verde
+
+D largo naranja
+
+D largo Azul
+
+2 largo
+
+0
+
+(2) D largo verde
+
+3 largo
+
+++++++++++++++++++++++
+
+108 384
+
+107 659

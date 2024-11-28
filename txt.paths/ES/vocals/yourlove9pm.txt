@@ -1,0 +1,19 @@
+D 3 largo Amarillo, 3 rayita
+
+verde
+
+3 verde
+
+-------------(6)
+
+D 5 largo Amarillo, 2 rayita
+
+verde
+
+3 verde
+
+(2) 2 verde
+
+++++++++++++++++++
+
+81 433

@@ -1,0 +1,23 @@
+(2) D largo Amarillo, D largo
+
+D naranja, 2 largo
+
+0
+
+D largo rojo (Ov)
+
+D largo Azul
+
+D pausa "1/0" (D largo naranja)
+
+(2) D 3 largo verde, 2 largo
+
+largo Azul
+
+--------------------(12)
+
+D largo verde
+
++++++++++++++++++++++++
+
+88 134

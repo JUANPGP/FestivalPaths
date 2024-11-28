@@ -1,0 +1,23 @@
+D naranja, doble
+
+D 3 rojo, Doble
+
+D naranja, D 9 rojo, doble
+
+D 3 rojo, Doble
+
+(4) D naranja, doble
+
+0
+
+---------------------(7)
+
+0
+
+D 2 mcdonalds
+
+Doble
+
+++++++++++++++++++++++++
+
+342 720

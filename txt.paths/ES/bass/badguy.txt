@@ -1,0 +1,21 @@
+D naranja, d 3 Amarillo
+
+D 2 largo rojo
+
+largo
+
+---------------(7)
+
+0
+
+largo
+
+0
+
+(2) D 2 largo
+
+++++++++++++++++
+
+98 436
+
+98 205

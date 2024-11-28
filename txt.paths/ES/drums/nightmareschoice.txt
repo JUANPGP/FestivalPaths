@@ -1,0 +1,31 @@
+2 verde
+
+0
+
+---------------(4)
+
+---------------(5)
+
+D 2 verde juntas
+
+Amarillo
+
+6 verde
+
+0
+
+---------------(7) 
+
+D verde, 2 (D 3 rojo)
+
+D verde, 2 (D 3 rojo)
+
+5 rojo
+
+2 naranja
+
+D 2 verde juntas
+
++++++++++++++++++
+
+115 920

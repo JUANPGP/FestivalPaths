@@ -1,0 +1,17 @@
+D 2 mcdonalds
+
+Doble
+
+D 4 mcdonalds
+
+mcdonalds
+
+0
+
+Fanta
+
+9 (D 12 rojo, verde)
+
++++++++++++++++++++
+
+111 744

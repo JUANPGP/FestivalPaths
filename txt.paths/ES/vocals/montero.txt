@@ -1,0 +1,25 @@
+D 3 naranja, 2 verde
+
+largo Azul
+
+D largo Azul
+
+D largo verde
+
+D largo rojo
+
+0
+
+0
+
+largo
+
+D largo Azul
+
+2 naranja (D pausa "2/1")
+
+++++++++++++++++++++
+
+128 448
+
+127 061

@@ -1,0 +1,21 @@
+7 Azul
+
+3 verde (D pausa "0/2")
+
+0
+
+(4) D pausa "0/2" (2 verde)
+
+D 2 Azul
+
+3 Azul
+
+2 Azul
+
+0
+
+0
+
+++++++++++++++++++
+
+223 452

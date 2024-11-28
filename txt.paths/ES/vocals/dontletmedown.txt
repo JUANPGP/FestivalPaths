@@ -1,0 +1,23 @@
+D 2 verde
+
+D verde
+
+(2) D 2 largo verde
+
+D 2 verde
+
+0
+
+Verde
+
+(2) naranja
+
+D 2 verde
+
+D largo rojo
+
+2 largo naranja
+
+++++++++++++++++++
+
+127 769

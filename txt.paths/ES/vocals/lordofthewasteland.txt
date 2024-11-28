@@ -1,0 +1,25 @@
+2 largo azul
+
+0
+
+D 4 verde, amarillo
+
+2 largo
+
+4 largo amarillo
+
+2 largo naranja
+
+largo
+
+0
+
+D 4 largo azul, amarillo
+
+0
+
+5 verde
+
+++++++++++++++++
+
+138 976

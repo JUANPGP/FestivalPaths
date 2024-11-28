@@ -1,0 +1,23 @@
+3 sprite
+
+0
+
+D Azul
+
+1 (2 sprite?)
+
+D Azul
+
+1 (2 sprite?)
+
+1 (2 sprite?)
+
+doble
+
+0
+
+0
+
++++++++++++++++++
+
+194 544

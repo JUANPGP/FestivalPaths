@@ -1,0 +1,19 @@
+2 largo Azul
+
+D 3 largo
+
+D largo
+
+D 3 largo
+
+D largo Amarillo, rojo
+
+0
+
+D 6 verde
+
+(3) Doble largo
+
++++++++++++++++++
+
+137 418

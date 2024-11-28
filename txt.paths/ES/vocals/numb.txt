@@ -1,0 +1,15 @@
+2 azul
+
+(3) 0
+
+D 2 largo
+
+D 4 largo amarillo
+
+D largo
+
+D 4 rojo, 2 nota
+
++++++++++++++++++
+
+102 850

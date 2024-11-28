@@ -1,0 +1,23 @@
+(2) D 3 largo rojo
+
+4 Azul
+
+3 verde
+
+(2) D 3 largo rojo
+
+4 Azul
+
+----------------(4)
+
+0
+
+2 rojo
+
+0
+
+3 largo Azul
+
+++++++++++++++++++
+
+138 258

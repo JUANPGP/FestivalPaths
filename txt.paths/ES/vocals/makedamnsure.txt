@@ -1,0 +1,24 @@
+largo Amarillo
+
+D 2 largo naranja, 2 Amarillo
+
+0
+
+rojo
+
+0
+
+largo
+
+0
+
+D 4 largo Amarillo, 4 naranja
+
+Ov, rojo
+
+0
+
++++++++++++++++++++++++
+
+
+

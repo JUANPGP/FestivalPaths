@@ -1,0 +1,31 @@
+D 2 largo verde, Azul
+
+0
+
+0
+
+D 2 largo naranja, naranja
+
+D 2 largo naranja
+
+4 Amarillo
+
+3 largo verde
+
+2 Amarillo
+
+D 2 largo verde
+
+Doble largo
+
+D 3 verde
+
+D largo
+
+4 Azul
+
+0
+
++++++++++++++++++++++
+
+175 705

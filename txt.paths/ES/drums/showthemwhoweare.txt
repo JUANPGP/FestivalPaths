@@ -1,0 +1,23 @@
+D 3 Azul, 3 sprite
+
+0
+
+Fanta
+
+D Azul
+
+D Azul, 4
+
+D 2 pepsi, doble
+
+D Azul
+
+Doble
+
+(2) D fanta, doble
+
+D 3 Azul
+
++++++++++++++++
+
+232 560

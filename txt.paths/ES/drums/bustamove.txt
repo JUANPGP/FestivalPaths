@@ -1,0 +1,29 @@
+5 (D edge, 4 mcdonalds)
+
+4 (8 mcdonalds)
+
+0
+
+0
+
+0
+
+D Azul, Doble
+
+0
+
+edge
+
+Doble
+
+0
+
+1 (2 mcdonalds)
+
+0
+
+++++++++++++++
+
+271 872	
+
+270 630

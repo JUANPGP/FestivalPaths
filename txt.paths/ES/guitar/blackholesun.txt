@@ -1,0 +1,21 @@
+D 2 largo Amarillo
+
+D 2 largo rojo
+
+D largo Azul, 2 nota
+
+(3) D 3 largo naranja, 2 nota
+
+Spam verde, 10 verde
+
+D 2 largo Amarillo, d 2 naranja
+
+(2) D 3 largo naranja, 2 nota
+
+1 (5 verde)
+
+D largo rojo
+
++++++++++++++++++++
+
+188 189

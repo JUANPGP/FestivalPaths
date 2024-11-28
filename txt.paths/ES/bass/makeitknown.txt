@@ -1,0 +1,21 @@
+(2) D 3 largo Azul, 1 rayita del 4 largo verde
+
+-----------------(16)
+
+D largo
+
+0
+
+D largo Amarillo, D largo
+
+0
+
+----------------(6)
+
+D largo verde
+
+D largo Azul, D 3 largo
+
+++++++++++++++++++
+
+92 154

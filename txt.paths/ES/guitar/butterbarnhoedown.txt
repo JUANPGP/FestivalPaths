@@ -1,0 +1,13 @@
+D 2 largo Azul, 2 rojo
+
+D 2 largo Amarillo
+
+D pepsi largo, Azul
+
+0
+
+Fanta
+
+++++++++++++++
+
+96 669

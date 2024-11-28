@@ -1,0 +1,27 @@
+4 azul
+
+D mastercards, D 4 azul, D 2 amarillo
+
+0
+
+(2) D 2 Edge largo
+
+0
+
+D 3 Sprite largo
+
+D 3 Sprite largo
+
+0
+
+0
+
+D largo
+
+(4) D 1 nota normal, 2 amarillo
+
++++++++++++++++
+
+287 700
+
+283 198

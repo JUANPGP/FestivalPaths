@@ -1,0 +1,25 @@
+2 largo naranja
+
+2 largo
+
+0
+
+D 3 largo Amarillo
+
+largo
+
+3 largo Azul
+
+--------------------(47)
+
+largo naranja
+
+largo naranja
+
+0
+
+2 largo Azul
+
++++++++++++++++++++++
+
+100 518

@@ -1,0 +1,35 @@
+(2) 5 Verde
+
+5 Verde
+
+D 3 largo rojo
+
+D 2 largo Amarillo
+
+D 6 largo Azul
+
+D 4 largo Azul
+
+D 2 largo Amarillo
+
+D largo verde
+
+D largo Amarillo
+
+D largo Amarillo
+
+0
+
+D 2 largo Azul
+
+D 2 largo rojo
+
+0
+
+(2) Amarillo
+
+0
+
++++++++++++++++++++++++++
+
+297 786

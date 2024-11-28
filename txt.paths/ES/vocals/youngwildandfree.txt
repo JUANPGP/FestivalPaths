@@ -1,0 +1,17 @@
+D "redouble de 3" verde-amarillo
+
+0
+
+D largo rojo, 2 Azul
+
+2 Amarillo
+
+0
+
+D 2 Azul, 2 Amarillo
+
+0
+
+++++++++++++++++++++++
+
+170 895

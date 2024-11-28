@@ -1,0 +1,17 @@
+(2) D azules, 3 rojo
+
+3 verde
+
+D 3 verde, 2 rojo
+
+amarillo
+
+(4) 2 rojo
+
+0
+
+D 2 verde, 2 rojo
+
+++++++++++++++
+
+189 411

@@ -1,0 +1,13 @@
+D largo rojo
+
+(2) D pausa "1/0" (Ov)
+
+D largo rojo
+
+D largo rojo
+
+(2) D pausa "1/0"
+
+++++++++++++++++
+
+110 124

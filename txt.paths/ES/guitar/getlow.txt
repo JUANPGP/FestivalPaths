@@ -1,0 +1,23 @@
+(2) 3 rojo
+
+0
+
+D 2 naranja, 2 verde
+
+Ov
+
+D 3 naranja, 2 verde
+
+(2) 0
+
+0
+
+(2) rojo
+
+0
+
+D 5 largo verde
+
++++++++++++++++++++
+
+119 112

@@ -1,0 +1,21 @@
+D largo rojo
+
+D 3 largo rojo
+
+Amarillo
+
+0
+
+D largo rojo
+
+D 3 largo rojo
+
+----------------------(12)
+
+D 2 largo rojo
+
+5 verde
+
++++++++++++++
+
+104 525

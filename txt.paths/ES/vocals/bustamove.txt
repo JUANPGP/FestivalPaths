@@ -1,0 +1,21 @@
+D 4 verde, 2 nota
+
+rojo
+
+D 3 naranjas juntas, 3 nota
+
+D 3 naranja
+
+D 2 largo Azul, D 3 Azul
+
+D 4 verde
+
+(3) naranja
+
+0
+
+D largo
+
++++++++++++++++++++++
+
+238 848

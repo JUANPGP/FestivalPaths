@@ -1,0 +1,11 @@
+Ov, 2 doble largo
+
+D pausa "1/2" (2 rojo)
+
+D pausa "1/0" (2 largo Amarillo)
+
+0
+
+++++++++++++++++++
+
+45 210

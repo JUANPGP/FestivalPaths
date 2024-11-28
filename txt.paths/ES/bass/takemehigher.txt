@@ -1,0 +1,23 @@
+(2) D largo naranja
+
+D 3 largo Amarillo
+
+2 largo
+
+0
+
+D 2 largo Amarillo
+
+D 3 largo Amarillo
+
+0
+
+---------------(8)
+
+D largo naranja
+
+D 3 largo Amarillo
+
+++++++++++++++
+
+88 218

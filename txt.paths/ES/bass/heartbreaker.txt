@@ -1,0 +1,23 @@
+D 2 largo
+
+D 3 largo
+
+(2) 0
+
+0
+
+3 verde
+
+(2) D 2 largo
+
+---------------(16)
+
+verde
+
+verde
+
+(2) D largo verde
+
++++++++++++++++++++
+
+196 950

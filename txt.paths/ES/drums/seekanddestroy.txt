@@ -1,0 +1,51 @@
+0
+
+3 Doble
+
+3 pepsi
+
+2 pepsi
+
+D 7 rojo
+
+3 naranja
+
+2 mcdonalds
+
+4 pepsi
+
+D 7 rojo
+
+3 naranja
+
+D fanta, 4 rojo
+
+0
+
+7 (D 5 fanta, d 4 rojo)
+
+3 naranja
+
+(2) 0
+
+pepsi
+
+pepsi
+
+2 pepsi
+
+D 7 rojo
+
+mastercard
+
+0
+
+D 2 rojo
+
+5 pepsi
+
+pepsi
+
++++++++++++++++++
+
+347 760

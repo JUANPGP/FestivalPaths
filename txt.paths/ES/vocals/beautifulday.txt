@@ -1,0 +1,23 @@
+D 3 largo Amarillo
+
+D 2 largo rojo
+
+0
+
+largo Azul
+
+0
+
+---------------(4)
+
+(2) D largo
+
+verde
+
+(2) D 2 largo rojo (Ov)
+
++++++++++++++++
+
+120 157
+
+118 687

@@ -1,0 +1,27 @@
+3 Amarillo
+
+6 Amarillo
+
+4 Amarillo
+
+4 Amarillo
+
+4 Amarillo
+
+----------------(5)
+
+0
+
+Amarillo
+
+0
+
+------------------- (4)
+
+3 Amarillo
+
+2 rojo
+
++++++++++++++++++++
+
+144288

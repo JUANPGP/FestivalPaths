@@ -1,0 +1,19 @@
+(2) 4 Azul
+
+5 (D "redouble 3 rojos")
+
+8 vez que lo repite
+
+D 2 naranja, 2 verde
+
+4 (D "redouble 3 rojos")
+
+(4) 0
+
+D 9 Amarillo
+
++++++++++++++++++
+
+294 408
+
+289 025

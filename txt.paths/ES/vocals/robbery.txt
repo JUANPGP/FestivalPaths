@@ -1,0 +1,23 @@
+(2) 0
+
+D 2 largo Amarillo
+
+D 2 largo verde, 2 rojo
+
+rojo
+
+(3) D largo Azul
+
+D 2 verde?
+
+0
+
+rojo
+
+3 rojo
+
+0
+
+++++++++++++++++++++++++
+
+159 976

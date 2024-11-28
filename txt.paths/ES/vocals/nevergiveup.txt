@@ -1,0 +1,19 @@
+D largo naranja
+
+D 2 largo verde
+
+D 3 largo naranja
+
+largo rojo
+
+D 2 largo naranja, 2 nota
+
+0
+
+3 naranja
+
+D 4 largo naranja
+
+++++++++++++++++++
+
+150 921

@@ -1,0 +1,17 @@
+D largo
+
+0
+
+(2) Ov (D 2 pausa "1/0"
+
+0
+
+D sprite largo
+
+D doble largo
+
+D 3 largo Amarillo
+
++++++++++++++++++++++
+
+104 182

@@ -1,0 +1,19 @@
+(2) D spam verde, 6 rojo
+
+0
+
+D 3 spam verde, 6 rojo
+
+2 verde
+
+0
+
+Ov
+
+D 3 Azul, 2 rojo
+
+0
+
+++++++++++++++++++++++++
+
+301 236

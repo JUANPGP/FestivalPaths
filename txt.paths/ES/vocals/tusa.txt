@@ -1,0 +1,15 @@
+5 verde
+
+(2) 4 Azul
+
+D 12 verde, 2 amarilla
+
+8 verde
+
+(2) D 4 naranjas
+
+0
+
++++++++++++++++
+
+157 786

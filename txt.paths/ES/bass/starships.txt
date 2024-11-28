@@ -1,0 +1,27 @@
+D 4 naranjas juntas?, rojo
+
+largo naranja
+
+0
+
+D largo verde
+
+0
+
+D pausa 1/0 (3 azul?)
+
+2 rojo
+
+D 2 largo verde
+
+-------------(7)
+
+0
+
+D 2 largo verde
+
++++++++++++++++++++
+
+121 770
+
+119 868

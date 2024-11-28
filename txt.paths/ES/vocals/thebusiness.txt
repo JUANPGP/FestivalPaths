@@ -1,0 +1,15 @@
+(2) D 2 largo Azul
+
+D 3 largo Azul
+
+2 Azul
+
+(2) 4 largo naranja
+
+D largo Azul, d Azul
+
+D largo Azul, d Azul
+
+++++++++++++++++++++
+
+99 297
