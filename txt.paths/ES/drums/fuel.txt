@@ -1,21 +1,22 @@
-2 doble
+Fuel - Drums
+Total score = 249120
 
-D redoble, Doble
+2do Fanta
 
-3 mastercard
+D Redoble amarillo, Fanta
 
-D 2 Doble, D 8 rojo
+D 2 Popeyes, 5 azul
 
-Doble
+3er Compas
 
-D redoble, doble
+Fanta
 
-5 mastercard
+D Redoble amarillo, Fanta
 
-(3) Ov, Azul
+D 5 McDonalds, 2 Azul
 
-D 8 mastercard
+(3) Azul OD
 
-++++++++++++++++++++
+D 8 Popeye
 
-249 120
+	
