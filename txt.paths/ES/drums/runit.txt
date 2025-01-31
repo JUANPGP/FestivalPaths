@@ -1,19 +1,18 @@
-D naranja
+Run It - Drums Path
+Total score = 134,640
 
-5 doble (3)
+D Naranja
 
-4 sprite (2)
+5ta Doble
 
-Doble
+4to Sprite 
+
+Sprite
 
 D Azul
 
-D Azul, 4 doble (2)
+D Azul, 4to Sprite
 
 0
 
-7 mcdonalds 
-
-++++++++++++++++
-
-134 764
+D 3 Edge

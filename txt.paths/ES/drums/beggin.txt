@@ -1,19 +1,18 @@
-D Azul
-
-Naranja c flecha
-
-D Fanta, d Azul
+Beggin' - Drums Path
+Total score = 215,568
 
 D Azul
 
-4 Amarillo
+3er Naranja (Presionar de nuevo por flecha)
+
+D Fanta, D Azul
+
+D Azul
+
+D Azul, Amarillo
 	
 0
 
-(3) 4 pepsi
+(3) D 4 Fanta
 
-2 Amarillo	
-
-++++++++++++
-
-215 568
+D Pausa, 2do Amarillo

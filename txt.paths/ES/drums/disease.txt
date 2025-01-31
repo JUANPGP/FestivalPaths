@@ -1,0 +1,16 @@
+Disease - Drums Path
+Total score = 190,656
+
+Sprite
+
+0
+
+(2) Sprite
+
+D Fanta, McDonalds
+
+0
+
+McDonalds
+
+0

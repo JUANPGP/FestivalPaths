@@ -1,21 +1,20 @@
-3 naranja
+Sad But True - Lead Path
+Total score = 286,066
 
-McDonald's largo
+3er Naranja
 
-0
-
-D 4 Edge, 3 sprite?
-
-McDonald's largo
-
-(2) D 2 largo amarillo, amarillo
+Sostenido McDonalds
 
 0
 
-D MasterCard, 3 Sprite?
+D 4 Edge, 3er Sprite 
 
-McDonald's largo
+Sostenido McDonalds
 
-++++++++++++++++
+(2) D 2 Sostenidos Amarillo, Amarillo
 
-286 066
+0
+
+D MasterCard, 3er Sprite
+
+Sostenido McDonalds

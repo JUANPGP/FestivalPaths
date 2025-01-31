@@ -1,19 +1,18 @@
-D pausa "0/2"
+my ex's best friend - Drums Path
+Total score = 135,216
 
-3 edge?
+D Pausa (2 Tempo)
 
-D edge, 4 sprite?
+3er Azul
 
-D pausa "0/2"
+D edge, 4to Sprite
 
-D pausa "0/2"
+D Pausa (2 tempo)
 
-D 2 edge, doble
+D Rojo
+
+D 2 Edge, Doble
 
 0
 
-D 2 Azul, 2 sprite
-
-++++++++++++++++++++++++
-
-135 216
+D 2 Azul, 2do Sprite

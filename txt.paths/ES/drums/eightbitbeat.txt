@@ -1,13 +1,12 @@
-(3) D fanta, 2 rojo
+8-Bit Beat - Drums Path
+Total score = 107136
 
-2 sprite
+(3) D Fanta, 2do Rojo
+
+2do Sprite
 
 Amarillo
 
-(3) D Azul 2 Amarillo
+(2) D Azul, 2do Amarillo
 
-D fanta
-
-+++++++++++++++++
-
-107 136
+D Fanta
